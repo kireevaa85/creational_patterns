@@ -1,6 +1,6 @@
 package ru.kireev.abstractfactory.led;
 
-import ru.otus.abstractfactory.Bulb;
+import ru.kireev.abstractfactory.Bulb;
 
 /**
  * @author sergey
